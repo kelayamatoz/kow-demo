@@ -1,11 +1,13 @@
 ---
 layout: default
 ---
+# Research Spotlight
+[Designing Computer Systems for Software 2.0](/papers/isca2018-kunle-keynote.pdf)
 
-# Recent Publications
+# Publications
 [Plasticine: A Reconfigurable Architecture For Parallel Patterns](https://dawn.cs.stanford.edu/pubs/plasticine-isca2017.pdf)
 
-# Project Highlights
+# Projects
 [Spatial: Specify Parameterized Accelerators Through Inordinately Abstract Language](https://github.com/stanford-ppl/spatial-lang)
 
 # Talk Schedule
