@@ -1,10 +1,12 @@
-title: KO Group Website Demo
+title: Group Website Demo
 email: "tianzhao@stanford.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   A quick demo for group website
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kelayamatoz
+theme: jekyll-theme-minimal
+logo: [/pictures/daisy_writing_code.JPG]
 
 repository: "kelayamatoz/kow-demo"
 
