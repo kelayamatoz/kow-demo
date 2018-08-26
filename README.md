@@ -1,7 +1,3 @@
----
-layout: page
-title: Daisy's Website
----
 
 ## Daisy Debugging
 
